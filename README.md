@@ -1,4 +1,4 @@
-# test-framework [![Build Status](https://travis-ci.org/alexanderHT/test-framework.svg?branch=master)]
+# test-framework ![Build Status](https://travis-ci.org/alexanderHT/test-framework.svg?branch=master)
 ```
 testing math function using mocha and chai
 ```
